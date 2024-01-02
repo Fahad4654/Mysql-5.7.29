@@ -18,7 +18,7 @@ git clone https://github.com/Fahad4654/Mysql-5.7.29.git
 
 # Install (the order of these commands matters!)
 
-sudo apt install libaio1 libmecab2 python3 libjson-perl
+sudo apt install libaio1 libtinfo5 libmecab2 python3 libjson-perl
 
 sudo dpkg -i mysql-common_5.7.29-1ubuntu18.04_amd64.deb
 
